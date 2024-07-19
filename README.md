@@ -1,6 +1,3 @@
-![Screenshot_20230826_195807](https://github.com/mtmzakir/TransGAS-AndroidApp/assets/90142607/83b6af98-844e-4577-b81e-95f3ceb1c53b)<h1 align="center">TransGAS App Development<br>using Android Studio & Java</h1>
-
-
 ## INTRODUCTION (OVERVIEW)
 
 TransGAS is an Online gas ordering and home delivery of gas. It is a convenient way for customers to order and receive their gas supply without having to physically visit a gas station or store.
