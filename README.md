@@ -1,5 +1,4 @@
-## INTRODUCTION (OVERVIEW)
-
+## INTRODUCTION
 TransGAS is an Online gas ordering and home delivery of gas. It is a convenient way for customers to order and receive their gas supply without having to physically visit a gas station or store.
 
 ## HIGH FIDELITY WIRE-FRAME OF PROPOSED DESIGN
